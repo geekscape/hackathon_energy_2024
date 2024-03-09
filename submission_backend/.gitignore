@@ -1,0 +1,11 @@
+.credentials.json
+submissions
+output
+database/*
+!database/.gitignore
+
+cruft/*
+!cruft/.gitignore
+
+venv
+svenv

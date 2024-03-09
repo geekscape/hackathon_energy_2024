@@ -1,0 +1,8 @@
+**/__pyacache__
+venv
+*.pyc
+
+bot/results/*
+!bot/results/.gitignore
+
+**/*.log
